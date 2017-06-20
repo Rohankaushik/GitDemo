@@ -12,6 +12,8 @@ class SecondViewController: NSObject {
 
     func sayHello() {
         print("Hello from secondeVC_NSObject class")
+        print("Hello from secondeVC_NSObject class")
+        
     }
     
 
